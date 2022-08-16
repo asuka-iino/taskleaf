@@ -1,1 +1,14 @@
 @import "bootstrap";
+
+.notifications {
+  color: $white;
+  text-align: center;
+
+  .notice {
+    background-color: lightBule;
+    }
+
+  .alert {
+    background-color: alert_orange;
+    }
+}
